@@ -97,7 +97,7 @@ def get_filters():
             
     return city, month, day
 
-# Lad data based on user filters
+# Load relevant data based on user filters
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
