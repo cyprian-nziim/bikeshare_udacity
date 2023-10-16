@@ -5,7 +5,7 @@
 Bikeshare Project
 
 ### Description
-Analyze bike share data
+Analyze of bike share data for udacity course
 
 ### Files used
 chicago.csv
